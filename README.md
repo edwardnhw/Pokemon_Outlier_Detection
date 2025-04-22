@@ -2,6 +2,7 @@
 
 Discover unusual Pokémon using unsupervised machine learning!  
 This project identifies Pokémon statistical outliers by analyzing their base stats and physical attributes using PCA for dimensionality reduction and DBSCAN for clustering.
+Credit to Kaggle Dataset: https://www.kaggle.com/datasets/jgassdfe/pokemon-dataset-of-gen-1-gen-9/data
 
 ---
 
